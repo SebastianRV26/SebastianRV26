@@ -1,8 +1,7 @@
-# Sebasti醤 Rojas Vargas
+# Sebasti谩n Rojas Vargas
 
-* Estudiante de ingenier韆 en computaci髇 del Instituto Tecnol骻ico de Costa Rica (ITCR).
-* Desarrollador m髒il en la Comunidad de Aplicaciones M髒iles SC del ITCR.
-* Tutor del curso Taller de Programaci髇.
+* Estudiante de ingenier铆a en computaci贸n del Instituto Tecnol贸gico de Costa Rica (ITCR).
+* Desarrollador m贸vil en la Comunidad de Aplicaciones M贸viles SC del ITCR.
 
 ## Contacto
 
