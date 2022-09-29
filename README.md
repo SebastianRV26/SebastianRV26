@@ -1,36 +1,33 @@
-### Sebastián Rojas Vargas
+## Sebastian Rojas Vargas
 
-I am currently a computer engineering student at the Technological Institute of Costa Rica (ITCR) and android developer at Comunidad de Aplicaciones Moviles SC - ITCR.
-
----
-
-### Technologies
-
-* Programming languages
-    * <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
-
-    * <img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> Java
-
-    * <img align="left" alt="Kotlin" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> Kotlin
-
-    * <img align="left" alt="Kotlin" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
-
-* <img alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> Android Development
-
-    * Kotlin, Retrofit, Coroutines, Firebase, MVVM architecture
-
-* <img alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> FrontEnd Development
-
-    * React.js, React-Bootstrap, Firebase
-    * Angular, TypeScript, Material
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRV26&layout=compact&theme=material-palenight)](https://github.com/SebastianRV26)
+Currently, I am a computer engineering student at Instituto Tecnológico de Costa Rica (ITCR) and Jr. React Developer at Smart Consulting Group S.A.
 
 ---
 
-### Contact
+## Technologies
+
+### Programming languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=f89820)
+![Kotlin](https://img.shields.io/badge/Kotlin-0098cd?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor)
+
+- Kotlin, Retrofit, Coroutines, Firebase, MVVM architecture
+
+![FrontEnd](https://img.shields.io/badge/FrontEnd_Development-323330?style=for-the-badge&logo=react&logoColor)
+
+- React.js, React-Bootstrap, Firebase
+- Angular, TypeScript, Material
+
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRV26&layout=compact&theme=material-palenight)
+
+---
+
+## Contact
 
 <a href="https://www.linkedin.com/in/sebastian-rojas-vargas/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
-
