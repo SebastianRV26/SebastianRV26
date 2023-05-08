@@ -1,6 +1,8 @@
 ## Sebastian Rojas Vargas
 
-Currently, I am a computer engineering student at Instituto Tecnológico de Costa Rica (ITCR) and Jr. React Developer at Smart Consulting Group S.A.
+I'm a Computer Engineer graduated from the Instituto Tecnológico de Costa Rica (ITCR).
+I've experience in React.js and I have used programming languages like Python, Java, Kotlin, JavaScript. I like thinking about how to solve logical problems, learn new things and use programming to perform daily tasks.
+Currently, I work as a React Developer at ITRIUX TECHNOLOGIES (Smart Consulting Group S.A).
 
 ---
 
@@ -13,14 +15,14 @@ Currently, I am a computer engineering student at Instituto Tecnológico de Cost
 ![Kotlin](https://img.shields.io/badge/Kotlin-0098cd?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+![FrontEnd](https://img.shields.io/badge/FrontEnd_Development-323330?style=for-the-badge&logo=react&logoColor)
+
+- React.js, Firebase, Cloud Functions, React-Bootstrap, Material UI (mui)
+- Angular, TypeScript, Angular Material UI
+
 ![Android](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor)
 
 - Kotlin, Retrofit, Coroutines, Firebase, MVVM architecture
-
-![FrontEnd](https://img.shields.io/badge/FrontEnd_Development-323330?style=for-the-badge&logo=react&logoColor)
-
-- React.js, React-Bootstrap, Firebase
-- Angular, TypeScript, Material
 
 ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRV26&layout=compact&theme=material-palenight)
 
